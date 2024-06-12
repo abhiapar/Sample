@@ -1,1 +1,2 @@
 Added sample 3 file.
+Added 1 line.
